@@ -1,2 +1,4 @@
-package Day03;public class Work03 {
+package Day03;
+
+public class Work03 {
 }
